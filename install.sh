@@ -1,6 +1,6 @@
 sudo pacman -Sy --noconfirm git hyfetch fastfetch fish
 
-git clone https://github.com/real9hsas/9hsas-configs
+git clone https://github.com/0xf19/0xf19-configs
 
 cd 9hsas-configs
 cp acsii.txt
